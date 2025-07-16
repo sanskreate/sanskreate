@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on projects in data engineering, data science, and machine learning.<br>👯 Excited to collaborate on innovative projects in the realm of data science.<br>🤝 Seeking guidance and mentorship to dive deeper into Data practices.<br>🌱 Currently learning advanced Agentic AI techniques.<br>💬 Feel free to ask me about crafting impactful presentations and mastering effective communication.<br>⚡ Fun fact: I enjoy creating visualizations to explore and gain deeper insights into complex problems!
+🔭 I’m currently working on projects in data science, machine learning, and agentic ai.<br>👯 Excited to collaborate on innovative projects in the realm of data science.<br>🤝 Seeking guidance and mentorship to dive deeper into Data practices.<br>🌱 Currently learning advanced Agentic AI techniques.<br>💬 Feel free to ask me about crafting impactful presentations and mastering effective communication.<br>⚡ Fun fact: I enjoy creating visualizations to explore and gain deeper insights into complex problems!
 
 
 ## 🌐 Socials:
